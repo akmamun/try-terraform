@@ -1,3 +1,4 @@
 # Terraform script 
 
-- [digitalocean](digital_ocean.tf)
+- [digitalocean (droplets)](digital_ocean.tf)
+- [aws (ec2)](aws_ec2.tf)
